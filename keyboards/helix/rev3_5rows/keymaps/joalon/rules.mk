@@ -1,0 +1,3 @@
+HELIX_ROWS = 5
+LED_BACK_ENABLE = yes
+OLED_ENABLE = yes
